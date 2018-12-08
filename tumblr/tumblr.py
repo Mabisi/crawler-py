@@ -198,7 +198,7 @@ def main(names):
 
 
 if __name__=='__main__':
-    names=[] #需下载的tumblr用户名列表
+    names=['wanimal1983','xiaoqingqu'] #需下载的tumblr用户名列表
     main(names)
 
 
